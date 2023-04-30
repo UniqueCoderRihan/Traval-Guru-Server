@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Bali, Indonesia",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/indonesia-bali-top-attractions-things-to-do-sights-tourist-map.jpg",
+      "description": "Bali is a popular island destination in Indonesia known for its beaches, volcanic mountains, rice paddies, and Hindu temples. It is a great destination for surfing, relaxation, and cultural experiences.",
+      "price": {"currency": "USD", "amount": 1000}
+    },
+    {
+      "name": "Paris, France",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/france-top-tourist-attractions-best-places-to-visit.jpg",
+      "description": "Paris is the capital city of France and one of the most popular tourist destinations in the world. It is known for its iconic landmarks such as the Eiffel Tower, the Louvre Museum, and the Notre-Dame Cathedral.",
+      "price": {"currency": "EUR", "amount": 2000}
+    },
+    {
+      "name": "Rome, Italy",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/italy-top-tourist-attractions-best-places-to-visit.jpg",
+      "description": "Rome is the capital city of Italy and home to some of the world's most famous ancient landmarks, including the Colosseum, the Pantheon, and the Roman Forum. It is also known for its delicious food and wine.",
+      "price": {"currency": "EUR", "amount": 1500}
+    },
+    {
+      "name": "New York City, USA",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/usa-top-tourist-attractions-best-places-to-visit.jpg",
+      "description": "New York City is the largest city in the United States and a global hub for business, art, and entertainment. It is home to iconic landmarks such as the Statue of Liberty, the Empire State Building, and Central Park.",
+      "price": {"currency": "USD", "amount": 2500}
+    },
+    {
+      "name": "Tokyo, Japan",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/japan-top-tourist-attractions-best-places-to-visit.jpg",
+      "description": "Tokyo is the capital city of Japan and a bustling metropolis known for its blend of modern and traditional culture. It is home to some of the world's most innovative architecture, cutting-edge technology, and vibrant street fashion.",
+      "price": {"currency": "JPY", "amount": 300000}
+    },
+    {
+      "name": "Cape Town, South Africa",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/south-africa-top-tourist-attractions-best-places-to-visit.jpg",
+      "description": "Cape Town is a coastal city in South Africa known for its stunning beaches, majestic mountains, and diverse cultural heritage. It is a great destination for outdoor activities such as hiking, surfing, and wildlife viewing.",
+      "price": {"currency": "ZAR", "amount": 35000}
+    },
+    {
+      "name": "Sydney, Australia",
+      "imageLink": "https://www.planetware.com/wpimages/2020/01/australia-top-tour",
+      "price": {"currency": "ZAR", "amount": 35000}
+    }]
+  
