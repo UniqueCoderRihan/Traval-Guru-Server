@@ -1,8 +1,8 @@
 "### Traval-Guru-Server" 
 
-##Server Link: https://traval-guru-server.vercel.app/
+## Server Link: https://traval-guru-server.vercel.app/
 
-##News server Link: https://traval-guru-server.vercel.app/news
+## News server Link: https://traval-guru-server.vercel.app/news
 
 ## Blog Server Link : https://traval-guru-server.vercel.app/blog
 
