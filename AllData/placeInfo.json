@@ -12,47 +12,7 @@
       "imageLink": "https://i.ibb.co/KLSjw7D/sundorbon.png",
       "description": "Paris is the capital city of France and one of the most popular tourist destinations in the world. It is known for its iconic landmarks such as the Eiffel Tower, the Louvre Museum, and the Notre-Dame Cathedral.",
       "price": {"currency": "EUR", "amount": 2000}
-    },
-    {
-      "name": "Rome, Italy",
-      "id":"3",
-      "imageLink": "https://i.ibb.co/YLHsyQL/Sajek.png",
-      "description": "Rome is the capital city of Italy and home to some of the world's most famous ancient landmarks, including the Colosseum, the Pantheon, and the Roman Forum. It is also known for its delicious food and wine.",
-      "price": {"currency": "EUR", "amount": 1500}
-    },
-    {
-      "name": "New York City, USA",
-      "id":"4",
-      "imageLink": "https://i.ibb.co/7gc8HLv/Sreemongol.png",
-      "description": "New York City is the largest city in the United States and a global hub for business, art, and entertainment. It is home to iconic landmarks such as the Statue of Liberty, the Empire State Building, and Central Park.",
-      "price": {"currency": "USD", "amount": 2500}
-    },
-    {
-      "name": "Tokyo, Japan",
-      "id":"5",
-      "imageLink": "https://www.planetware.com/wpimages/2020/01/japan-top-tourist-attractions-best-places-to-visit.jpg",
-      "description": "Tokyo is the capital city of Japan and a bustling metropolis known for its blend of modern and traditional culture. It is home to some of the world's most innovative architecture, cutting-edge technology, and vibrant street fashion.",
-      "price": {"currency": "JPY", "amount": 300000}
-    },
-    {
-      "name": "Cape Town, South Africa",
-      "id":"6",
-      "imageLink": "https://i.ibb.co/7gc8HLv/Sreemongol.png",
-      "description": "Cape Town is a coastal city in South Africa known for its stunning beaches, majestic mountains, and diverse cultural heritage. It is a great destination for outdoor activities such as hiking, surfing, and wildlife viewing.",
-      "price": {"currency": "ZAR", "amount": 35000}
-    },
-    {
-      "name": "Sydney, Australia",
-      "id":"7",
-      "imageLink": "https://i.ibb.co/YLHsyQL/Sajek.png",
-      "price": {"currency": "ZAR", "amount": 35000}
-    },
-    {
-        "name": "Cape Town, South Africa",
-        "id":"8",
-        "imageLink": "https://i.ibb.co/7gc8HLv/Sreemongol.png",
-        "description": "Cape Town is a coastal city in South Africa known for its stunning beaches, majestic mountains, and diverse cultural heritage. It is a great destination for outdoor activities such as hiking, surfing, and wildlife viewing.",
-        "price": {"currency": "ZAR", "amount": 35000}
-      }
+    }
+    
 ]
   
