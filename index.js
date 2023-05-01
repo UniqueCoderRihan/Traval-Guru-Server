@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
+const cors = require('cors')
 const port = 3000;
+
+app.use(cors)
 
 const place = require('./AllData/placeInfo.json')
 const blog = require('./AllData/blog.json')
